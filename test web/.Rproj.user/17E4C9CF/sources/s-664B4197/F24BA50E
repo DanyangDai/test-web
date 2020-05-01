@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588339837613.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F24BA50E",
+    "lastKnownWriteTime" : 1588339835,
+    "last_content_update" : 1588339835,
+    "path" : "~/Desktop/R-Ladies Melbourne /test web/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "1,17",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
